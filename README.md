@@ -119,25 +119,25 @@ np.mean(predict(res.x,X)==y)
 ```
 
 ## Output:
-Array Value of x:
+## Array Value of x:
 ![image](https://github.com/rakshithaprakashkumar11/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150994181/568d375a-5c86-452c-8d04-64478d0a9b55)
-Array Value of y:
+## Array Value of y:
 ![image](https://github.com/rakshithaprakashkumar11/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150994181/78802893-6ba6-4e11-b26c-e41286082de8)
-Exam 1 - Score graph:
+## Exam 1 - Score graph:
 ![image](https://github.com/rakshithaprakashkumar11/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150994181/719ea21e-fa9b-4870-a117-10148dc4e8af)
-Sigmoid function graph:
+## Sigmoid function graph:
 ![image](https://github.com/rakshithaprakashkumar11/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150994181/cd29378d-ce2e-4f16-982b-462d0918e1ca)
-X_train_grad value
+## X_train_grad value
 ![image](https://github.com/rakshithaprakashkumar11/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150994181/67db93b6-a0d3-4648-994a-a9472c16ac3e)
-Y_train_grad value
+## Y_train_grad value
 ![image](https://github.com/rakshithaprakashkumar11/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150994181/49890060-4244-428c-897f-7ced09888055)
-Print res.x
+## Print res.x
 ![image](https://github.com/rakshithaprakashkumar11/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150994181/6b006a88-d712-499b-a3e6-a2ce6657a9c8)
-Decision boundary - graph for exam score
+## Decision boundary - graph for exam score
 ![image](https://github.com/rakshithaprakashkumar11/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150994181/37eb36f7-56e5-480a-b710-9bf1f12e478a)
-Probability value:
+## Probability value:
 ![image](https://github.com/rakshithaprakashkumar11/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150994181/f51140a0-2a6a-4628-b53f-3ce5215da444)
-Prediction value of mean
+## Prediction value of mean
 ![image](https://github.com/rakshithaprakashkumar11/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150994181/856ba580-e232-482a-9ba6-055e452cde58)
 
 
